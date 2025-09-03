@@ -1,4 +1,6 @@
-还需创建.env文件，下面参数的值替换为自己浏览器的值
+还需创建 `.env` 文件，下面参数的值替换为自己浏览器的值：
+
+
 USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0"
 
 
